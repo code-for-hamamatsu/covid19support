@@ -1,19 +1,13 @@
 <template>
   <v-container>
+      <h2 class="headline font-weight-bold mb-3 ma-7 text-center">
+        各種行政機関の<br>COVID-19対策まとめ
+      </h2>
     <v-row class="text-center">
-
       <v-flex xs12 sm12 md4 text-center class="pa-3 mh-10">
         <v-card min-height="400px" class="pa-3">
-          <h2 class="headline font-weight-bold mb-3 mt-7">
-            大事なページ
-          </h2>
           <p class="description">
-            浜松市では、新型コロナウイルス
-            感染症防止のために各種の
-            対策サイトを公開して居ます。
-            オープンソースプロジェクトとして
-            進行しており、下記リンクより
-            開発に貢献していただくことができます。
+            浜松市では、
           </p>
           <p
             v-for="(link, i) in importantLinks"
