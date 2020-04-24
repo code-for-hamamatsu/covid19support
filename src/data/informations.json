@@ -1,0 +1,17 @@
+{
+    "hamamatsu-city-support": {
+        "title": "浜松市の休業要請に基づく協力金の支給について",
+        "text": "浜松市では新型コロナウイルス感染拡大防止のため、休業要請に協力する浜松市内の施設・店舗を運営する事業者に対して、1事業者50万円（複数店舗運営事業者100万円）の協力金を支給する模様です。対象となるのは、食事提供施設、遊興施設などです。詳しくは下記ボタンより公式ページをご覧ください。",
+        "url": "https://www.city.hamamatsu.shizuoka.jp/sangyoshinko/shougyo2.html?fbclid=IwAR0XrDDzjmcGGSZ1VDwsLGWPpSX082gwae3uxyi0Q9D_QOV-YlJVQ9HvOw0"
+    },
+    "shizuoka-pref-support": {
+        "title": "静岡県:新型コロナウイルス感染拡大防止協力金のご案内",
+        "text": "静岡県では新型コロナウイルス感染拡大防止のため、施設の使用停止に協力する中小の事業者を対象として、1事業者あたり20万円の協力金を支給する模様です。各市町村の協力金等の制度の対象とならない様な形態の事業を運営される事業者の方は、こちらの制度のご活用を検討されると良いかもしれません。詳しくは下記ボタンより公式ページをご覧ください。",
+        "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-kyouryokukin.html?fbclid=IwAR1PvxLab2JOv8cYWyexhj9Xutg8gAa3sTUA5QCZecyKkiu6q28TDpBJOL8"
+    },
+    "gov-support-portal": {
+        "title": "ミラサポplus:中小企業向け補助金・支援サイト",
+        "text": "経済産業省では、中小事業者向けの補助金・支援に関するポータルサイトを公開しています。下記ボタンから、新型コロナウイルス感染症関連の各種制度をご確認いただけます。",
+        "url": "https://seido-navi.mirasapo-plus.go.jp/supports?keywords=%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E9%96%A2%E9%80%A3&sort=popularity&order=desc&limit=10&offset=0&fbclid=IwAR3ldz0pz3IvvdgtlqFKCHmpbqjFaXCeW_4t3DLXTWpn4n1Ugp2H7toNdG4"
+    }
+}
