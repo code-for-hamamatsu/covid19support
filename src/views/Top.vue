@@ -10,7 +10,10 @@
         xs12 sm6 md4 text-center
         class="pa-3 mh-10"
       >
-        <v-card class="pa-3">
+        <v-card
+          class="pa-3"
+          height="400"
+        >
           <v-card-title>
             {{ information.title }}
           </v-card-title>
